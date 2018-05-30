@@ -1,5 +1,5 @@
 # CalcRegim_M
-![LEP](https://github.com/DimaKovalchuk066/Regim_mlab/blob/master/ЛЭП.JPG)
+![LEP](ЛЭП.JPG)
 
 Сalculation of the electric networks of 6-10 kV of arbitrary configuration. Language - Matlab (version 2015b)
 
