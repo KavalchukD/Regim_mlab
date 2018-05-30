@@ -1,4 +1,5 @@
 # CalcRegim_M
+![Image alt](https://github.com/DimaKovalchuk066/Regim_mlab/raw/master/ЛЭП.jpg)
 Сalculation of the electric networks of 6-10 kV of arbitrary configuration. Language - Matlab (version 2015b)
 
 This project is the program, which implements the calculation of the mode
