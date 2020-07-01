@@ -9,7 +9,7 @@ configuration with multiple power sources, but one nominal
 voltage) by the method of contour equations. Implemented work with xls files for
 input and output calculation results.
 
-To run the program, you must:
+To run the program, you have to:
 1. Copy the Regim_Mlab folder to the hard disk
 2. Open the main file in Matlab;
 3. Run the main file in Matlab;
